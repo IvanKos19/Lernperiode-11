@@ -10,3 +10,18 @@ In diesem Lernatelier will ich mein Programmierwissen fordern und Projekte die a
 
 ## Zusammenfassung
 Am 30.08. habe ich meine Kenntnisse im Modul 355 im Handlungsziel 2 gefestigt und bis Video 6 des Python-Tutorials auf YouTube durchgearbeitet – auch wenn ich noch keinen eigenen Code hochladen konnte. Zudem habe ich mir die BSI-Anforderungen angeschaut und über ein mögliches Projekt zur Vertiefung nachgedacht. Abschließend habe ich recherchiert, was die FHNW im Bewerbungsgespräch praktisch abfragt, und meine Bewerbung entsprechend angepasst. (Wortanzahl: 61)
+
+5.09
+- [X] Bewerbung für Wir lernen weiter verfasst und überarbeitet
+- [X] Bewerbung für Wir lernen weiter bereit zum Versand gemacht
+- [X] Vorschlag für das Referenzschreiben verfasst
+- [ ] Feedback zum Referenzschreiben von der Lehrperson eingeholt
+
+## Zusammenfassung
+Am 05.09.2025 habe ich die Bewerbung für Wir lernen weiter geschrieben und sorgfältig überarbeitet. Außerdem habe ich einen Vorschlag für das Referenzschreiben erstellt. Die Bewerbung ist bereit für den Versand, wird aber noch final geprüft. Vom Lehrer werde ich noch übers Wochenende Feedback zum Referenzschreiben erhalten. (Wortanzahl: 56)
+
+12.09
+- [ ] Ideenfindung: App-Ideen sammeln, die zum Zweck von Wir lernen weiter passen
+- [ ] Anforderungen definieren: Zielgruppe, Funktionen und Nutzen der App festlegen
+- [ ] Erste Skizzen oder Wireframes der Benutzeroberfläche entwerfen
+- [ ] Entwicklungsumgebung einrichten und Grundstruktur der App (z. B. Projektordner, Startseite) erstellen

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "boot",
+      "title": "Gerät startet und erreicht Desktop",
+      "required": true
+    },
+    {
+      "id": "battery",
+      "title": "Akku lädt und hält Ladung",
+      "required": false
+    },
+    {
+      "id": "keyboard",
+      "title": "Tastatur funktioniert",
+      "required": true
+    },
+    {
+      "id": "touchpad",
+      "title": "Touchpad/Mouse funktioniert",
+      "required": true
+    },
+    {
+      "id": "screen",
+      "title": "Display ohne starke Pixelfehler/Brüche",
+      "required": true
+    },
+    {
+      "id": "wifi",
+      "title": "WLAN verbindet stabil",
+      "required": true
+    },
+    {
+      "id": "ports",
+      "title": "USB/Netzteil-Port ohne Wackelkontakt",
+      "required": false
+    },
+    {
+      "id": "storage",
+      "title": "Speicher/SSD wird erkannt",
+      "required": true
+    },
+    {
+      "id": "os",
+      "title": "Betriebssystem installiert (z. B. Linux), Updates möglich",
+      "required": false
+    }
+  ]
+}

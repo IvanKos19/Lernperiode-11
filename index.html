@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Geräte‑Check App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Geräte‑Check</h1>
+      <p class="subtitle">Schnelle Prüfliste für gespendete Geräte</p>
+    </header>
+
+    <main>
+      <section class="card">
+        <h2>Prüfdetails</h2>
+        <form id="meta-form" class="grid">
+          <label>
+            <span>Gerätenummer</span>
+            <input type="text" id="deviceId" placeholder="z. B. WlW-2025-001" />
+          </label>
+          <label>
+            <span>Prüfer*in</span>
+            <input
+              type="text"
+              id="testerName"
+              placeholder="Vor- und Nachname"
+            />
+          </label>
+          <label>
+            <span>Datum</span>
+            <input type="date" id="checkDate" />
+          </label>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2>Checkliste</h2>
+        <div id="checklist" class="checklist"></div>
+      </section>
+
+      <section class="actions">
+        <button id="saveBtn">Lokal speichern</button>
+        <button id="exportBtn">Als JSON exportieren</button>
+        <button id="resetBtn" class="secondary">Zurücksetzen</button>
+      </section>
+
+      <section id="summary" class="card hidden" aria-live="polite">
+        <h2>Zusammenfassung</h2>
+        <pre id="summaryPre" class="summary-pre"></pre>
+      </section>
+    </main>
+
+    <footer>
+      <small>© 2025 Geräte‑Check App • Demo</small>
+    </footer>
+
+    <script src="checklist.js"></script>
+  </body>
+</html>

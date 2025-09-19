@@ -30,7 +30,16 @@ Am 05.09.2025 habe ich die Bewerbung für Wir lernen weiter geschrieben und sorg
 Heute habe ich mich hingesetzt, um ein Projekt zu erstellen, das mich für die Firma Wir lernen weiter attraktiver machen würde. Kurz danach habe ich jedoch die Absage erhalten. Trotzdem denke ich, dass dieses Projekt ein interessantes Programm werden könnte, das ich auch bei anderen Unternehmen gut vorzeigen kann. Weiter als bis zur Projektstruktur bin ich jedoch nicht gekommen, da ich mit Bewerbungen für zwei neue Stellen beschäftigt war. (Wortanzahl: 73)
 
 19.09
-- [ ] Projektidee detaillierter ausarbeiten und Anforderungen dokumentieren
-- [ ] Erste Version der Benutzeroberfläche (HTML/CSS) erstellen
-- [ ] Grundlogik in JavaScript programmieren (z. B. Eingaben speichern)
-- [ ] Feedback zur Projektidee bei der Lehrperson einholen
+- [X] Projektidee detaillierter ausarbeiten und Anforderungen dokumentieren
+- [X] Erste Version der Benutzeroberfläche (HTML/CSS) erstellen
+- [X] Grundlogik in JavaScript programmieren (z. B. Eingaben speichern)
+- [X] Feedback zur Projektidee bei der Lehrperson einholen
+
+## Zusammenfassung
+Am 19.09. habe ich meine Projektidee weiter ausgearbeitet und die Anforderungen dokumentiert. Danach habe ich eine erste Version der Benutzeroberfläche mit HTML und CSS erstellt und die Grundlogik in JavaScript programmiert, sodass Eingaben gespeichert werden können. Abschließend habe ich Feedback zur Projektidee bei der Lehrperson eingeholt, wodurch ich hilfreiche Hinweise für die weitere Umsetzung erhalten habe. (Wortanzahl: 59)
+
+26.09
+- [ ] Projekt ausarbeiten das es Lokal speichert
+- [ ] Weitere Bewerbungen schreiben
+- [ ] Projekt bereinigen
+- [ ] Lernatelier abschluss
